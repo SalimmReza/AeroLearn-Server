@@ -13,7 +13,12 @@
             "thumbnail_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
         "img": "https://media.istockphoto.com/photos/airplane-architecture-blueprint-picture-id169990399",
-        "details": "The aircraft design process is a loosely defined method used to balance many competing and demanding requirements to produce an aircraft that is strong, lightweight, economical and can carry an adequate payload while being sufficiently reliable to safely fly for the design life of the aircraft. Similar to, but more exacting than, the usual engineering design process, the technique is highly iterative, involving high level configuration tradeoffs, a mixture of analysis and testing and the detailed examination of the adequacy of every part of the structure. For some types of aircraft, the design process is regulated by civil airworthiness authorities.This article deals with powered aircraft such as airplanes and helicopter designs."
+        "details": "The aircraft design process is a loosely defined method used to balance many competing and demanding requirements to produce an aircraft that is strong, lightweight.",
+        "t1": "The Aircraft Design Process",
+        "t2": "Aircraft Cost Analysis",
+        "t3": "Initial Sizing",
+        "t4": "Aircraft Conceptual Layout",
+        "t5": "Aircraft Structural Layout"
     },
     {
         "_id": "02",
@@ -29,7 +34,12 @@
             "thumbnail_url": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
         "img": "https://images.pexels.com/photos/11213147/pexels-photo-11213147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "details": "In this entry, for clarity, the term inline engine refers only to engines with a single row of cylinders, as used in automotive language, but in aviation terms, the phrase inline engine also covers V-type and opposed engines (as described below), and is not limited to engines with a single row of cylinders. This is typically to differentiate them from radial engines. A straight engine typically has an even number of cylinders, but there are instances of three- and five-cylinder engines. The greatest advantage of an inline engine is that it allows the aircraft to be designed with a low frontal area to minimize drag. If the engine crankshaft is located above the cylinders, it is called an inverted inline engine: this allows the propeller to be mounted high up to increase ground clearance, enabling shorter landing gear. The disadvantages of an inline engine include a poor power-to-weight ratio, because the crankcase and crankshaft are long and thus heavy. An in-line engine may be either air-cooled or liquid-cooled, but liquid-cooling is more common because it is difficult to get enough air-flow to cool the rear cylinders directly. Inline engines were common in early aircraft; one was used in the Wright Flyer, the aircraft that made the first controlled powered flight. However, the inherent disadvantages of the design soon became apparent, and the inline design was abandoned, becoming a rarity in modern aviation."
+        "details": "In this entry, for clarity, the term inline engine refers only to engines with a single row of cylinders, as used in automotive language, but in aviation terms, the phrase inline engine also covers V-type and opposed engines.",
+        "t1": "Aircraft Equipment",
+        "t2": "Airbus A320neo",
+        "t3": "Propulsion Engine",
+        "t4": "Boeing 737 Max",
+        "t5": "Modern Aircraft Engine"
     },
     {
         "_id": "03",
@@ -45,7 +55,12 @@
             "thumbnail_url": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
         "img": "https://images.pexels.com/photos/1188751/pexels-photo-1188751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "details": "Computer-aided design (CAD) is the use of computers (or workstations) to aid in the creation, modification, analysis, or optimization of a design.[1] This software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing.[2] Designs made through CAD software are helpful in protecting products and inventions when used in patent applications. CAD output is often in the form of electronic files for print, machining, or other manufacturing operations. The terms computer-aided drafting (CAD) and computer aided design and drafting (CADD) are also used."
+        "details": "Computer-aided design (CAD) is the use of computers (or workstations) to aid in the creation, modification, analysis, or optimization of a design.",
+        "t1": "computer-aided geometric design (CAGD)",
+        "t2": " Computer-Aided Design and Drafting in Architecture.",
+        "t3": "Initial Sizing",
+        "t4": "Computer Aided Design (CAD) Standards",
+        "t5": "Structural Layout"
     },
     {
         "_id": "04",
@@ -61,7 +76,12 @@
             "thumbnail_url": "https://images.pexels.com/photos/4342401/pexels-photo-4342401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         "img": "https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "details": "A conventional fixed-wing aircraft flight control system consists of flight control surfaces, the respective cockpit controls, connecting linkages, and the necessary operating mechanisms to control an aircraft's direction in flight. Aircraft engine controls are also considered as flight controls as they change speed.The fundamentals of aircraft controls are explained in flight dynamics. This article centers on the operating mechanisms of the flight controls. The basic system in use on aircraft first appeared in a readily recognizable form as early as April 1908, on Louis Blériot's Blériot VIII pioneer-era monoplane design"
+        "details": "A conventional fixed-wing aircraft flight control system consists of flight control surfaces, the respective cockpit controls, connecting linkages, and the necessary operating mechanisms to control an aircraft's direction in flight.",
+        "t1": "Axis of Rotation",
+        "t2": "Coordinated Flight",
+        "t3": "Ailerons",
+        "t4": "Elevator",
+        "t5": "Spoilers And Speedbrakes"
     },
     {
         "_id": "05",
@@ -77,7 +97,12 @@
             "thumbnail_url": "https://images.pexels.com/photos/3772620/pexels-photo-3772620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         "img": "https://images.pexels.com/photos/6143215/pexels-photo-6143215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "details": "Flight Operations - These including dispatch, flight planning, flight watch, weather data provision, operations control, ground to air communications and integration with crew, schedules and maintenance planning. Gate allocation, slot control, ATC and airport management can also be covered. There is increasing use of simulation and expert systems, for the management of irregular operations."
+        "details": "Flight Operations - These including dispatch, flight planning, flight watch, weather data provision, operations control, ground to air communications and integration with crew, schedules and maintenance planning.",
+        "t1": "Manpower Planning",
+        "t2": "Aircraft Routing",
+        "t3": "Crew Pairing",
+        "t4": "Crew Rostering",
+        "t5": "Tail Assignment"
     },
     {
         "_id": "06",
@@ -93,6 +118,11 @@
             "thumbnail_url": "https://images.pexels.com/photos/5212361/pexels-photo-5212361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         "img": "https://images.pexels.com/photos/2610756/pexels-photo-2610756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "details": "Airline and airport management is the administration of airports and airlines.[1] It includes the activities of setting the strategy of airports to gather and provide information on airline commercial and operational priorities.[2] It covers a broad overview of the airline management. It is also studied as a branch of study[3] that teaches management of airport and airlines.[4] This provides a broad overview of the airline industry and creates awareness of the underlying marketing, financial, operational, and other factors influencing airline management. This study provides information on airline commercial and operational priorities, along with teaching the key characteristics of aircraft selection and the impact of airport decision-making."
+        "details": "Airline and airport management is the administration of airports and airlines.[1] It includes the activities of setting the strategy of airports to gather and provide information on airline commercial and operational priorities.[2] It covers a broad overview of the airline management.",
+        "t1": "Categories of Airports",
+        "t2": "Ownership of Airports",
+        "t3": "Organizational Structure",
+        "t4": "Major Airport Departments",
+        "t5": "Airport Training Programs"
     }
 ]
